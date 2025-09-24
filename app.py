@@ -9,7 +9,7 @@ load_dotenv()
 default_api_key = os.environ.get("OpenAI_API_KEY", "")
 
 # Setting the title of the Streamlit application
-st.title("Simple LLM App 🤖")
+st.title("StreamMind AI 🤖")
 
 # Allow overriding the API key, but pre-fill with the one from .env if available
 openai_api_key = st.sidebar.text_input('OpenAI API Key', 
