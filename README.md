@@ -1,4 +1,4 @@
-# Simple LLM App 🤖
+# StreamMind AI 🤖
 
 A streamlined application that leverages OpenAI's language models through LangChain and Streamlit to create an interactive chat interface.
 
@@ -17,7 +17,7 @@ This application provides a simple web interface for interacting with OpenAI's l
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Simple-LLM-App.git
+   git clone https://github.com/yourusername/StreamMind-AI.git
    cd Simple-LLM-App
    ```
 
